@@ -1,1 +1,4 @@
 *.qprs
+db/*
+*.qpf
+*.qsf
